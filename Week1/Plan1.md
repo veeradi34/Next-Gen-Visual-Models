@@ -1,1 +1,1 @@
-
+This plan is designed for those who are entirely new to concepts like regression and classification or anyone seeking a thorough foundation. Recommended for individuals who have not previously taken formal machine learning courses, either through the institute or online, this path offers a comprehensive introduction to essential principles and techniques in machine learning.
