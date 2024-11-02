@@ -4,6 +4,4 @@
 
 ## Week 1 Assignment Submission form
 
-[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfa6x3FwJ2aXM29sVa_RP1OXR7eohZw9JLldpC3N0Ur6gF5Ew/viewform?usp=sf_link)
-
-**Deadline : 2 June (Sunday) 11:59pm**
+> TBA
