@@ -15,4 +15,4 @@ This plan is ideal for those completely new to machine learning, particularly in
 - **Week 1**: Add detailed comments in the code for tutorials, including descriptions of classifiers.
 - **Submission**: One Jupyter Notebook with code, explanations, and references to materials used.
 
-> **Note**: See the original [WiDS Plan 1 on Notion](https://azure-fragrance-241.notion.site/WiDS-Plan-1-627b9e9e6daa420d98a8ad5b9e38d25b) for more information.
+>**Note:** This plan is highly recommended for those aiming to start from scratch or who want to ensure a complete grasp of core concepts.
