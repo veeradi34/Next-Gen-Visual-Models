@@ -1,13 +1,18 @@
-## Plan 1: Foundation for Beginners
+# Plan 1: Foundation for Beginners in Machine Learning
 
-This plan is tailored for individuals who are new to machine learning concepts like **regression** and **classification** or those looking to rebuild a strong foundation. It’s an ideal starting point for those who haven’t undertaken any formal machine learning courses, whether at an institute or online.
+This plan is ideal for those completely new to machine learning, particularly in **regression** and **classification**, or anyone aiming to build a strong foundation. It covers pre-deep learning techniques and essential supervised learning methods.
 
-### Recommended For:
-- Complete beginners to machine learning.
-- Individuals seeking a structured and thorough introduction to ML fundamentals.
+## Course Outline
+1. **Machine Learning Techniques Overview**: Introduction to classical ML techniques before deep learning.
+2. **Supervised Learning Specialization**:
+   - [Andrew Ng's Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) – Recommended for structured learning.
+3. **Hands-on with Scikit-Learn**:
+   - Tutorials on basic ML models using scikit-learn.
+   - [Linear Regression Guide](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html)
+   - [Classifier Comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
 
-### What You’ll Gain:
-- A solid understanding of essential machine learning principles.
-- Hands-on experience with foundational ML techniques.
+## Assignments
+- **Week 1**: Add detailed comments in the code for tutorials, including descriptions of classifiers.
+- **Submission**: One Jupyter Notebook with code, explanations, and references to materials used.
 
-> **Note:** This plan is highly recommended for those aiming to start from scratch or who want to ensure a complete grasp of core concepts.
+> **Note**: See the original [WiDS Plan 1 on Notion](https://azure-fragrance-241.notion.site/WiDS-Plan-1-627b9e9e6daa420d98a8ad5b9e38d25b) for more information.
