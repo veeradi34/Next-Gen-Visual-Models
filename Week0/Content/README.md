@@ -1,6 +1,6 @@
 # **Python Basics**
 
-For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook](https://github.com/shoryasethia/Virtual_Notepad/blob/main/Week1/Content/Python_review.ipynb).  
+For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook](https://github.com/shoryasethia/Next-Gen-Visual-Models/blob/main/Week0/Content/Python_review.ipynb).  
 
 For the first week we will be covering some basic topics:
 * [Getting Started](#getting-started)
@@ -19,8 +19,8 @@ Then we'll go through some data science libraries.
 # Data Science Libraries!
 
 Now, we will look at Applications of Python in Data Analysis fields and will cover various python libraries used for this namely :
-* [Numpy](https://github.com/shoryasethia/Virtual_Notepad/blob/main/Week1/Content/numpy.ipynb)
-* [Pandas](https://github.com/shoryasethia/Virtual_Notepad/blob/main/Week1/Content/pandas.ipynb)
+* [Numpy](https://github.com/shoryasethia/Next-Gen-Visual-Models/blob/main/Week0/Content/numpy.ipynb)
+* [Pandas](https://github.com/shoryasethia/Next-Gen-Visual-Models/blob/main/Week0/Content/pandas.ipynb)
 * [Matplotlib](#Matplotlib)
 
 For numpy and pandas you may refer [this](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/)
@@ -107,7 +107,7 @@ Make sure you have covered the following topics -
 * If-else condition ( normal, nested, if-elif)
 ## Functions
 Functions are the named blocks of code that are designed to do one specific job. When you want to perform a particular task that you’ve defined in a function, you call the name of that function responsible for it. If you need to perform that task multiple times throughout your program, you don't need to type all the code for the same task again and again; you just call the function dedicated to handling that task, and the call tells Python to run the code inside the function. You’ll find that using functions makes your programs easier to write, read, test, and fix.
-You can see [this notebook](https://github.com/shoryasethia/Virtual_Notepad/blob/main/Week1/Content/Classes.ipynb) which covers some details about the functions.  
+You can see [this notebook](https://github.com/shoryasethia/Next-Gen-Visual-Models/blob/main/Week0/Content/Classes.ipynb) which covers some details about the functions.  
 If you prefer to watch videos to learn you can head over to [this link](https://www.youtube.com/watch?v=1OuRhD7FmTA&list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&index=12).
 
 ## **Scope of a Variable**
@@ -128,7 +128,7 @@ If you prefer to watch videos you can go through [this video](https://www.youtub
 One advantage of functions is the way they separate blocks of code from your main program. By using descriptive names for your functions, your main program will be much easier to follow. You can go a step further by storing your functions in a separate file called a module and then importing that module into your main program.
 Storing your functions in a separate file allows you to hide the details of your program’s code and focus on its higher-level logic. It also allows you to re-use functions in many different programs. When you store your functions in separate files, you can share those files with other programmers without having to share your entire program. Knowing how to import functions also allows you to use libraries of functions that other programmers have written.
 
-You can go through [this notebook](https://github.com/shoryasethia/Virtual_Notepad/blob/main/Week1/Content/Modules%26Packages.ipynb) to learn about modules and packages.
+You can go through [this notebook](https://github.com/shoryasethia/Next-Gen-Visual-Models/blob/main/Week0/Content/Modules%26Packages.ipynb) to learn about modules and packages.
 
 ## **Iterators**
 Iterator in python is any python type that can be used with a ‘for in loop’. Python lists, tuples, dicts and sets are all examples of inbuilt iterators. These types are iterators because they implement following methods.In fact, any object that wants to be an iterator must implement following methods.
@@ -158,7 +158,7 @@ When you write a class, you define the general behavior that a whole category of
 
 Making an object from a class is called _instantiation_, and you work with _instances_ of a class. You’ll specify the kind of information that can be stored in instances, and you’ll define the actions that can be taken with these _instances_.
 
-You can visit [this notebook](https://github.com/shoryasethia/Virtual_Notepad/blob/main/Week1/Content/Classes.ipynb) to learn about classes and objects.   
+You can visit [this notebook](https://github.com/shoryasethia/Next-Gen-Visual-Models/blob/main/Week0/Content/Classes.ipynb) to learn about classes and objects.   
 You can also go through [this video](https://www.youtube.com/watch?v=jQiUOV15IRI&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt&index=2).
 
 
@@ -184,7 +184,7 @@ For installation you can refer [this](https://www.w3schools.com/python/matplotli
 Once you are done with the installation part , you can use it by importing it in your applications by adding **import** keyword.
 
 ### Getting Started With Matplotlib
-Check this [notebook](https://github.com/shoryasethia/Virtual_Notepad/blob/main/Week1/Content/Matplotlib.ipynb). Relevant links to websites and documentations have been provided in the notebook itself.
+Check this [notebook](https://github.com/shoryasethia/Next-Gen-Visual-Models/blob/main/Week0/Content/Matplotlib.ipynb). Relevant links to websites and documentations have been provided in the notebook itself.
 Or you may refer [this](https://www.analyticsvidhya.com/blog/2020/02/beginner-guide-matplotlib-data-visualization-exploration-python/)
 
 ## Plotly
@@ -216,3 +216,4 @@ Firstly, watch [this](https://www.youtube.com/watch?v=-DEL6SVRPw0) basic Intro V
 1. [What is unsupervised learning?](https://www.edureka.co/blog/unsupervised-learning/).  
 
 This brings us to the end of this Week1 material. By now you should  be familiar with the basics of python. You should have a good enough idea about concepts like data types, loops, operators, iterators, functions, modules and packages, classes in python. Do go through the Assignment after finishing the reading material. It will give you a chance to apply these concepts and practice your skills. 
+
