@@ -11,7 +11,3 @@
 </p>
 This WiDS Project explores the evolution of image generation, from autoencoders, GANs to SD &amp; the new VAR (Visual Autoregressive Representation) method. VAR enhances image quality and scalability beyond diffusion models. We’ll analyze each stage for all models, explore unique emerging techniques, and work toward developing a novel approach in the near future.
 
-## Mentors
-[@shoryasethia](https://github.com/shoryasethia)
-[@HimanshuR321](https://github.com/HimanshuR321)
-> Star [this](https://github.com/shoryasethia/Next-Gen-Visual-Models) repo :)
