@@ -1,4 +1,5 @@
-## [This](https://chatgpt.com/share/b36661e1-4260-4325-83ab-562057644411) might be helpful for you to choose loss, optimizer and metric while model compilation.
+## Read about different losses, optimizerers and metrices to consider while model compilation, get basic overview when to use which loss and read about different optimizers.
+
 # Steps to connect to Google colab GPU :
 
 1. Go to `Runtime > Change runtime type`.
